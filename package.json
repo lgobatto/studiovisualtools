@@ -1,0 +1,26 @@
+{
+  "name": "studiovisualtools",
+  "publisher": "studiovisual",
+  "displayName": "StudioVisualTools",
+  "description": "Tools for a better wordpress development.",
+  "repository": "https://github.com/lgobatto/studiovisualtools",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-complete-tag",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "bmewburn.vscode-intelephense-client",
+    "esbenp.prettier-vscode",
+    "stylelint.vscode-stylelint",
+    "valeryanm.vscode-phpsab",
+    "johnbillion.vscode-wordpress-hooks",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag"
+  ]
+}
